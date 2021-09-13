@@ -10,9 +10,15 @@ Let's get some practice working with control flow and logic in Python!
 
 ## Setup
 
-1. Clone this repo into the `labs` directory.
+1. Clone this repo
 
-2. Open the folder in VS Code: `$ code .`
+2. `cd python-control-flow-lab`
+
+3. Write your code in each of the files in the `exercises` folder.
+
+4. To execute and test your code, run it using the `python` program!
+`python exercises/exercise-1.py`
+
 
 ## Exercises
 
